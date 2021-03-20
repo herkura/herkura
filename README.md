@@ -2,7 +2,7 @@
 
 
 
- <h1 align="center"> Hello World!<img src="https://media.giphy.com/media/13twUEuUnCrEju/giphy.gif" width="40px">
+ <h1 align="center"><img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="240px">
  </h1>
  <h4 align="center"><div><p>Hi, my name is Hershil Piplani. 👋</p></div></h4>
 <p>My passion includes Data Analytics and web development, exploring machine learning algorithms, tools, and technology to create and innovate limitless possibilities and drive measurable impact to the ecosystem. . </p>
