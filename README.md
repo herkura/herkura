@@ -9,7 +9,7 @@
 
 ![Herhsil's github stats](https://github-readme-stats.vercel.app/api?username=herkura&theme=gotham&show_icons=true)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=herkura.herkura)
+
 - 🔭 I’m currently working on Java, DSA, css3,HTML5,Python.
 - 👯 I’m looking to collaborate on Anything :)
 
