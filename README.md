@@ -12,6 +12,7 @@
 
 - 🔭 I’m currently working on Java, DSA, css3,HTML5,Python.
 - 👯 I’m looking to collaborate on Anything :)
+- 🎓 [Know more about me](https://herkura.github.io/My-portfolio_updated/) 
 
 
 
