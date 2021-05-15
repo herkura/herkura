@@ -10,8 +10,8 @@
 ![Hershil's github stats](https://github-readme-stats.vercel.app/api?username=herkura&theme=gotham&show_icons=true)
 
 
-- 🔭 I’m currently working on Java, DSA, css3,HTML5,Python.
-- 👯 I’m looking to collaborate on Anything :)
+- 🔭 I’m currently working on Java, DSA, css3, HTML5, Python.
+- 👯 I’m looking to collaborate to anything 😄
 - 🎓 [Know more about me](https://herkura.github.io/My-portfolio_updated/) 
 
 
