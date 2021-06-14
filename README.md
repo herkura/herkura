@@ -5,8 +5,6 @@
  <h1 align="center">Hello World!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"> 
  </h1>
  
- 
- ![Visitors](https://enf9o9jq83ilxok.m.pipedream.net)
 
 <p> Hi, my name is Hershil Piplani. My passion includes Data Analytics and web development, exploring machine learning algorithms, tools, and technology to create and innovate limitless possibilities and drive measurable impact to the ecosystem. . </p>
 
@@ -19,6 +17,8 @@
 - 🔭 I’m currently working on Java, DSA, Python, css3, HTML5.
 - 👯 I’m looking to collaborate to anything 😄
 - 🎓 [Know more about me](https://herkura.github.io/My-portfolio_updated/) 
+      
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=herkura)
 
 
 
