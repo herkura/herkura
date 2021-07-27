@@ -6,7 +6,7 @@
  </h1>
  
 
-<p> Hi, my name is Hershil Piplani. My passion includes Data Analytics and web development, exploring machine learning algorithms, tools, and technology to create and innovate limitless possibilities and drive measurable impact to the ecosystem.</p>
+<p> Hi, my name is Hershil Piplani. My passion includes Data Analytics and software development, exploring machine learning algorithms, tools, and technology to create and innovate limitless possibilities and drive measurable impact to the ecosystem.</p>
 
 
 ![Hershil's github stats](https://github-readme-stats.vercel.app/api?username=herkura&theme=gotham&show_icons=true) 
