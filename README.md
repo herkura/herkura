@@ -22,7 +22,7 @@
 </br>
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="30%"></h2>
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=herkura&theme=gotham" width = "45%" align = "right"></img>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=herkura&theme=gotham" width = "45%" align = "right"></img>
 <img src = "https://github-readme-stats.vercel.app/api?username=herkura&theme=gotham&show_icons=true" width = "45%"></img>
 <br>
 <h3 align="center">⭐some of my repositories if you like them 😄</h3>
