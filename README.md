@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Java, DSA, Python, CSS3, HTML5.
 - 👯 I’m looking to collaborate to anything 😄
-- 🎓 [Know more about me](https://herkura.github.io/.me/) 
+- 🎓 [Know more about me](https://herkura.is-a.dev/) 
 
 <br/>
 
