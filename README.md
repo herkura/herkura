@@ -34,7 +34,7 @@
 
 ## Find me on:
 
- <a href="https://herkura.is-a.dev/"> <img align="left" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"  height="30"></a>
+ <a href="https://hershilpiplani.medium.com/"> <img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"  height="30"></a>
 
  <a href="https://www.linkedin.com/in/hershil-piplani-639a83178/"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a>
  <br></br>
