@@ -20,11 +20,14 @@
  ![Apex](https://camo.githubusercontent.com/c9282fbf2ff6598c044b803c0be3288d3f17f7ad86515498c9864be9f7e8d137/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f5241434c452d415045582d737563636573732e737667)
  
  ### Tools
+ <div>
  <img align="left" alt="GitHub" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
  <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
- <img alt="Salesforce" width="60px" src = "https://camo.githubusercontent.com/ad3547ec57ee5877eef636f40cd104da8bbc39f4fa2acb9697d2c55663311b1f/68747470733a2f2f6c6f67696e2e73616c6573666f7263652e636f6d2f696d672f6c6f676f3139302e706e67"/>
+ <img align = "left" alt="Salesforce" width="60px" src = "https://camo.githubusercontent.com/ad3547ec57ee5877eef636f40cd104da8bbc39f4fa2acb9697d2c55663311b1f/68747470733a2f2f6c6f67696e2e73616c6573666f7263652e636f6d2f696d672f6c6f676f3139302e706e67" />
+ <img align = "left" alt="Heroku" width="26px" src =
+ https://raw.githubusercontent.com/heroku/favicon/master/favicon.iconset/icon_32x32.png />
 </br>
-
+</div>
 <h2 align="center"><img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="30%"></h2>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=herkura&theme=gotham" width = "45%" align = "right"></img>
 <img src = "https://github-readme-stats.vercel.app/api?username=herkura&theme=gotham&show_icons=true" width = "45%"></img>
