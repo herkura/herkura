@@ -17,6 +17,7 @@
  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
  ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-333333?style=flat&logo=JAVASCRIPT)
+ ![Apex](https://camo.githubusercontent.com/c9282fbf2ff6598c044b803c0be3288d3f17f7ad86515498c9864be9f7e8d137/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f5241434c452d415045582d737563636573732e737667)
  
  ### Tools
  <img align="left" alt="GitHub" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
