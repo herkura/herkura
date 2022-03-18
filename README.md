@@ -5,7 +5,7 @@
 <p> Hi, my name is Hershil Piplani. My passion includes Data Analytics and software development, exploring machine learning algorithms, tools, and technology to create and innovate limitless possibilities and drive measurable impact to the ecosystem.</p>
 
 - 🔭 I’m currently working on Java, Apex, JavaScript, AngularJS, Soql, Sosl.
-- 👯 I’m looking to collaborate to anything 😄
+- 🌱 I’m looking to collaborate to anything 😄
 - 🎓 [Know more about me](https://herkura.is-a.dev/)
 
 ### Languages
