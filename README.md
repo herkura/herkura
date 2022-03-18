@@ -32,7 +32,7 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=herkura&theme=gotham&show_icons=true" width = "45%"></img>
 
 
-## Find me on:
+## Connect with me:)
 
  <a href="https://hershilpiplani.medium.com/"> <img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"  height="30"></a>
 
