@@ -31,7 +31,8 @@
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=herkura&theme=gotham" width = "45%" align = "right"></img>
 <img src = "https://github-readme-stats.vercel.app/api?username=herkura&theme=gotham&show_icons=true" width = "45%"></img>
 
-
+<h2 align="center"><img src= "https://github-profile-trophy.vercel.app/?username=herkura&row=1&theme=gruvbox"/></h2>
+ 
 ## Connect with me:)
 
  <a href="https://hershilpiplani.medium.com/"> <img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"  height="30"></a>
