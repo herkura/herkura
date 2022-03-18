@@ -26,12 +26,13 @@
  <img align = "left" alt="Heroku" width="26px" src =
  https://raw.githubusercontent.com/heroku/favicon/master/favicon.iconset/icon_32x32.png />
 
-</div>
-<h2 align="center"><img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="30%"></h2>
+</div><br></br>
+
+<h2 align="center"><img align="center" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="30%"></h2>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=herkura&theme=gotham" width = "45%" align = "right"></img>
 <img src = "https://github-readme-stats.vercel.app/api?username=herkura&theme=gotham&show_icons=true" width = "45%"></img>
-
 <h2 align="center"><img src= "https://github-profile-trophy.vercel.app/?username=herkura&row=1&theme=gruvbox"/></h2>
+
  
 ## Connect with me:)
 
@@ -39,6 +40,7 @@
 
  <a href="https://www.linkedin.com/in/hershil-piplani-639a83178/"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a>
  <br></br>
+ 
 <h3 align="center">⭐some of my repositories if you like them 😄</h3>
  
 <img src="https://visitor-badge.laobi.icu/badge?page_id=herkura"></img>
