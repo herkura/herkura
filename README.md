@@ -42,5 +42,5 @@
 <br></br>
 
 <h3 align="center">⭐some of my repositories if you like them 😄</h3>
- 
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=herkura"></img>
