@@ -2,7 +2,7 @@
 
  <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h1>
 
-<p> Hi, my name is Hershil Piplani. My passion includes Data Analytics and software development, exploring machine learning algorithms, tools, and technology to create and innovate limitless possibilities and drive measurable impact to the ecosystem.</p>
+<p> Hi, my name is Hershil Piplani. My passion includes Data Analytics and software development, exploring tools, and technology to create and innovate limitless possibilities and drive measurable impact to the ecosystem.</p>
 
 - 🔭 I’m currently working on Java, Apex, JavaScript, AngularJS, Soql, Sosl.
 - 🌱 I’m looking to collaborate to anything 😄
