@@ -31,7 +31,11 @@
 <h2 align="center"><img align="center" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="30%"></h2>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=herkura&theme=gotham" width = "45%" align = "right"></img>
 <img src = "https://github-readme-stats.vercel.app/api?username=herkura&theme=gotham&show_icons=true" width = "45%"></img>
+<h2 align = "center"><img src= "https://github.com/herkura/herkura/blob/main/herkura-skyline.gif" width="800px" height="400"></img></h2>
+
+## Trophies 🏆
 <h2 align="center"><img src= "https://github-profile-trophy.vercel.app/?username=herkura&row=1&theme=gruvbox"/></h2>
+
 
 ## Connect with me:)
 
