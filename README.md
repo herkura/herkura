@@ -34,7 +34,7 @@
 <h2 align = "center"><img src= "https://github.com/herkura/herkura/blob/main/herkura-skyline.gif" width="800px" height="400"></img></h2>
 
 ## Trophies 🏆
-<h2 align="center"><img src= "https://github-profile-trophy.vercel.app/?username=herkura&row=1&theme=gruvbox"/></h2>
+<h2 align="center"><img src= "https://github-profile-trophy.vercel.app/?username=herkura&row=1&theme=gruvbox&no-frame=true"/></h2>
 
 
 ## Connect with me:)
