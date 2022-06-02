@@ -1,7 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
- <h1 align="center">Hello World!👋</h1>
-
+<h1 align="center">Hello World!👋</h1>
 <p> Hi, my name is Hershil Piplani. My passion includes Data Analytics and software development, exploring tools, and technology to create and innovate limitless possibilities and drive measurable impact to the ecosystem.</p>
 
 - 🔭 I’m currently working on Java, Apex, JavaScript, AngularJS, Soql, Sosl.
