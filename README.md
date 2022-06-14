@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Java, Apex, JavaScript, AngularJS, Soql, Sosl.
 - 🌱 I’m looking to collaborate to anything 😄
-- 🎓 [Know more about me](https://herkura.is-a.dev/)
+- 😄 [Know more about me](https://herkura.is-a.dev/)
 
 ### Languages
 
