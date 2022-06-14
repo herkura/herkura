@@ -33,8 +33,8 @@
 <h2 align = "center"><img src= "https://github.com/herkura/herkura/blob/main/herkuraskyline.gif" width="600px" height="218px"></img></h2>
 
 ## Trophies 🏆
-<h2 align="center"><img src= "https://github-profile-trophy.vercel.app/?username=herkura&title=MultiLanguage,Commits,PullRequest,Stars,Repositories&&theme=gruvbox&no-frame=true"/></h2>
 
+<h2 align="center"><img src= "https://github-profile-trophy.vercel.app/?username=herkura&title=MultiLanguage,Commits,PullRequest,Stars,Repositories&&theme=gruvbox&no-frame=true"/></h2>
 
 ## Connect with me:)
 
