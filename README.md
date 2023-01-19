@@ -12,7 +12,7 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=herkura&theme=gotham&show_icons=true" width = "45%"></div><br>
 <div>
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="github-metrics.svg" alt="Metrics">
 </picture>
 </div>
 <div>
