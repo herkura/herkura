@@ -1,48 +1,26 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
+<div>
 <h1 align="center">Hello World!👋</h1>
-<p> Hi, my name is Hershil Piplani. My passion includes Data Analytics and software development, exploring tools, and technology to create and innovate limitless possibilities and drive measurable impact to the ecosystem.</p>
-
-- 🔭 I’m currently working on Java, Apex, JavaScript, AngularJS, Soql, Sosl.
-- 🌱 I’m looking to collaborate to anything.
-- 😄 [Know more about me](https://herkura.is-a.dev/)
-
-### Languages
-
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-333333?style=flat&logo=JAVASCRIPT)
-![Apex](https://camo.githubusercontent.com/c9282fbf2ff6598c044b803c0be3288d3f17f7ad86515498c9864be9f7e8d137/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f5241434c452d415045582d737563636573732e737667)
-
-### Tools
-
- <div>
- <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/d478b4b0afe6b0fec7a91269e740a51850674bc3/github.svg" />
- <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
- <img align = "left" alt="Salesforce" width="60px" src = "https://camo.githubusercontent.com/ad3547ec57ee5877eef636f40cd104da8bbc39f4fa2acb9697d2c55663311b1f/68747470733a2f2f6c6f67696e2e73616c6573666f7263652e636f6d2f696d672f6c6f676f3139302e706e67" />
- <img align = "left" alt="Heroku" width="26px" src =
- https://raw.githubusercontent.com/heroku/favicon/master/favicon.iconset/icon_32x32.png />
-
-</div><br></br>
-
-<h2 align="center"><img align="center" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="30%"></h2>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=herkura&theme=gotham" width = "45%" align = "right"></img>
-<img src = "https://github-readme-stats.vercel.app/api?username=herkura&theme=gotham&show_icons=true" width = "45%"></img>
-<h2 align = "center"><img src= "https://github.com/herkura/herkura/blob/main/herkuraskyline.gif" width="600px" height="218px"></img></h2>
-
-## Trophies 🏆
-
-<h2 align="center"><img src= "https://github-profile-trophy.vercel.app/?username=herkura&title=MultiLanguage,Commits,PullRequest,Stars,Repositories&&theme=gruvbox&no-frame=true"/></h2>
-
-## Connect with me:)
+<p> Hi, my name is Hershil Piplani. My passion includes Data Analytics and Front end development, exploring tools, and technology to create and innovate limitless possibilities and drive measurable impact to the ecosystem. </p>
+<a href="https://herkura.is-a.dev/"><em>Know more about me</em></a>
+</div>
+<br>
+<div>
+<h1>Herkura's Github Metrics</h1>
+<div>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=herkura&theme=gotham" width = "45%" align = "right">
+<img src = "https://github-readme-stats.vercel.app/api?username=herkura&theme=gotham&show_icons=true" width = "45%"></div><br>
+<div>
+<img src="https://metrics.lecoq.io/herkura?template=classic&languages=1&lines=1&followup=1&habits=1&repositories=1&achievements=1&notable=1&introduction=1&pagespeed=1&discussions=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories=false&repositories.pinned=2&repositories.starred=2&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=false&discussions.categories.limit=2&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&introduction=false&introduction.title=true&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.octicon=true&config.display=columns" alt="Metrics" width="100%"/>
+</div>
+<div>
+<h2>Connect with me:)</h2>
 
 <a href="https://hershilpiplani.medium.com/"> <img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"  height="30"></a>
 
 <a href="https://www.linkedin.com/in/hershil-piplani-639a83178/"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a>
 <br></br>
+</div>
+<h3 align="center">⭐ some of <em>my repositories</em> if you like them 😄</h3>
 
-<h3 align="center">⭐some of my repositories if you like them 😄</h3>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=herkura"></img>
