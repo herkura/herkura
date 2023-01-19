@@ -24,7 +24,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: my-github-metrics.svg
           output_action: pull-request
-        
+          optimize: svg
           # Options
           user: herkura
           template: classic
