@@ -7,12 +7,8 @@
 <br>
 <div>
 <h1>Herkura's Github Metrics</h1>
-<div>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=herkura&theme=gotham" width = "45%" align = "right">
-<img src = "https://github-readme-stats.vercel.app/api?username=herkura&theme=gotham&show_icons=true" width = "45%"></div><br>
-<div>
 <picture>
-  <img src="github-metrics.svg" alt="Metrics">
+  <img src="github-metrics.svg" alt="Metrics" width=100% height=50%>
 </picture>
 </div>
 <div>
