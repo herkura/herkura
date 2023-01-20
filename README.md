@@ -7,6 +7,7 @@
 <br>
 <div>
 <h1>Herkura's Github Metrics</h1>
+<h3><em>Coming soon!</em></h3>
 <picture>
   <img src="/github-metrics.svg" alt="Metrics" width=100%>
 </picture>
