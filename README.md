@@ -6,14 +6,14 @@
   <body>
       <div>
         <h1 align="center"><i>Hello World!👋</i></h1>
-        <p> Hi, my name is Hershil Piplani. My passion includes <em>Data Analytics</em> and <em>Front end development</em>,     exploring tools, and technology to create and innovate limitless possibilities and drive measurable impact to the ecosystem.           </p>
+        <p> Hi, my name is Hershil Piplani. My passion includes <em>Data Analytics</em> and <em>Front end development</em>, exploring tools, and technology to      create and innovate limitless possibilities and drive measurable impact to the ecosystem.</p>
         <a href="https://herkura.is-a.dev/"><em>Know more about me</em></a>
       </div>
     <br>
     <div>
       <h1><em>Herkura's</em> Github Metrics</h1>
       <div align="left">
-        <img src="/github-metrics.svg" alt="Metrics" width=500>
+        <img src="/github-metrics.svg" alt="Metrics" width=900>
       </div>
      </div>
      <div>
