@@ -11,8 +11,13 @@
       </div>
     <br>
     <div>
+      <h1><i>Herkura's</i> Github Overall Stats</h1>
+      <img src = "https://github-readme-streak-stats.herokuapp.com?user=herkura&theme=gotham" width = "45%" align = "right"/>
+      <img src = "https://github-readme-stats.vercel.app/api?username=herkura&theme=gotham&show_icons=true" width = "45%"/>
+    </div>
+    <div>
       <h1><em>Herkura's</em> Github Metrics</h1>
-      <img src="github-metrics.svg" width=500/>
+      <img src="github-metrics.svg" width=50%/></div>
      <div>
       <h2>Connect with me:)</h2>
         <a href="https://hershilpiplani.medium.com/"> <img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"  height="30"></a>
