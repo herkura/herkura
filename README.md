@@ -12,9 +12,7 @@
     <br>
     <div>
       <h1><em>Herkura's</em> Github Metrics</h1>
-      <div align="left">
-        <img src="/github-metrics.svg" alt="Metrics" width=900>
-      </div>
+      <div align="center"><img src="/github-metrics.svg" alt="Metrics" width=500/></div>
      </div>
      <div>
       <h2>Connect with me:)</h2>
