@@ -19,7 +19,7 @@
       <h1><em>Herkura's</em> Github Metrics</h1>
       <img src="github-metrics.svg" width=50%/></div>
      <div>
-      <h2>Connect with me:)</h2>
+      <h1>Connect with me :)</h1>
         <a href="https://hershilpiplani.medium.com/"> <img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"  height="30"></a>
         <a href="https://www.linkedin.com/in/hershil-piplani-639a83178/"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a>
       <br>
