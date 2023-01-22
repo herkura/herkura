@@ -13,12 +13,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          output_action: pull-request
-          token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@latest
-        with:
-          file-name: github-metrics-0.svg
           output_action: pull-request-merge
+          token: ${{ secrets.METRICS_TOKEN }}
           # Options
           user: herkura
           template: classic
