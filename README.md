@@ -8,7 +8,7 @@
 <div>
 <h1><em>Herkura's</em> Github Metrics</h1>
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics" width=100%>
+  <img src="/github-metrics.svg" alt="Metrics" width=50%>
 </picture>
 </div>
 <div>
