@@ -1,15 +1,14 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <div>
-<h1 align="center">Hello World!👋</h1>
+<h1 align="center"><i>Hello World!👋</i></h1>
 <p> Hi, my name is Hershil Piplani. My passion includes Data Analytics and Front end development, exploring tools, and technology to create and innovate limitless possibilities and drive measurable impact to the ecosystem. </p>
 <a href="https://herkura.is-a.dev/"><em>Know more about me</em></a>
 </div>
 <br>
 <div>
-<h1>Herkura's Github Metrics</h1>
-<h3><em>Coming soon!</em></h3>
+<h1><em>Herkura's</em> Github Metrics</h1>
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics" width=100%>
+  <img src="/github-metrics.svg" alt="Metrics" width=50%>
 </picture>
 </div>
 <div>
