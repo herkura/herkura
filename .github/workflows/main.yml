@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          #output_action: pull-request
+          output_action: pull-request
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
