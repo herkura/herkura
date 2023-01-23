@@ -17,7 +17,7 @@
     </div>
     <div>
       <h1><em>Herkura's</em> Github Metrics</h1>
-      <div align="center"><img src="github-metrics.svg" width=700/></div>
+      <div align="center"><img src="github-metrics.svg" width=600/></div>
      <div>
       <h1>Connect with me :)</h1>
         <a href="https://hershilpiplani.medium.com/"> <img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"  height="30"></a>
