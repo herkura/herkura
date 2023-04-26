@@ -1,4 +1,4 @@
-name: Auto-Merge PR
+name: Auto-Merge PR from Action
 
 on:
   pull_request:
@@ -13,6 +13,7 @@ jobs:
       with:
         fetch-depth: 0
     - name: Merge PR
+      if: ${{ github.event.pull_request.head.repo.full_name == github.repository }}
       run: |
         git merge "${{ github.event.pull_request.head.sha }}" --no-edit
         git push
