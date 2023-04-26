@@ -5,6 +5,8 @@ on:
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
   push: {branches: ["master", "main"]}
+  pull_request:
+    types: [opened]
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -47,3 +49,21 @@ jobs:
           plugin_rss: yes
           plugin_rss_limit: 4
           plugin_rss_source: https://medium.com/feed/@hershilpiplani
+          
+          name: Auto-Merge PR from Action (No Checks)
+
+  
+
+
+  auto_merge:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Merge PR
+      if: ${{ github.event.pull_request.head.repo.full_name == github.repository && github.event.pull_request.mergeable == true && github.event.pull_request.draft == false }}
+      run: |
+        git merge "${{ github.event.pull_request.head.sha }}" --no-edit
+        git push
