@@ -11,12 +11,7 @@ jobs:
     steps:
     - uses: lowlighter/metrics@latest
       with:
-        filename: my-metrics-0.svg
-        output_action: pull-request
-
-    - uses: lowlighter/metrics@latest
-      with:
-        filename: my-metrics-1.svg
+        filename: my-metrics.svg
         output_action: pull-request-merge
         token: ${{ secrets.METRICS_TOKEN }}
           # Options
@@ -47,7 +42,7 @@ jobs:
         plugin_languages_sections: most-used
         plugin_languages_threshold: 0%
         plugin_pagespeed: yes
-        plugin_pagespeed_url: .user.website
+        plugin_pagespeed_token: .user.website
         plugin_rss: yes
         plugin_rss_limit: 4
         plugin_rss_source: https://medium.com/feed/@hershilpiplani
