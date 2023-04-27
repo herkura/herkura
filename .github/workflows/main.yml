@@ -11,8 +11,7 @@ jobs:
     steps:
     - uses: lowlighter/metrics@latest
       with:
-        filename: my-metrics.svg
-        output_action: pull-request-merge
+        output_action: pull-request
         token: ${{ secrets.METRICS_TOKEN }}
           # Options
         user: herkura
