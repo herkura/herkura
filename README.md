@@ -13,7 +13,7 @@
     <br>
     <div>
       <h1><i>Herkura's</i> Github Overall Stats</h1>
-      <img src = "https://github-readme-streak-stats.herokuapp.com?user=herkura&theme=gotham" width = "45%" align = "right"/>
+      <img src = "https://github-readme-streak-stats.herokuapp.com/?user=herkura&theme=gotham" width = "45%" align = "right"/>
       <img src = "https://github-readme-stats.vercel.app/api?username=herkura&theme=gotham&show_icons=true" width = "45%"/>
     </div>
     <div>
